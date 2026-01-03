@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic T-Shirt",
+      "category": "Clothing",
+      "price": "200",
+      "image": "https://nobero.com/cdn/shop/files/white_855177b5-5621-4a4b-a0d1-9060b89a6a69.jpg?v=1711979035",
+      "body": "A comfortable and stylish cotton t-shirt."
+    },
+    {
+      "id": "2",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 25.5,
+      "image": "https://m.media-amazon.com/images/I/61N+CzcA8vL.jpg",
+      "body": "Ergonomic wireless mouse with long battery life."
+    },
+    {
+      "id": "3",
+      "name": "Sports Sneakers",
+      "category": "Footwear",
+      "price": "9000",
+      "image": "https://f.nooncdn.com/p/pzsku/ZA12C22A6C89D0E362627Z/45/1750856769/e446ccd0-fb4c-444c-b7fb-439d014449de.jpg?width=800",
+      "body": "Durable sneakers perfect for running and gym workouts."
+    },
+    {
+      "id": "4",
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 59.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2s8ZJ_EZj86YmlfV7kbx24s72R0iw7q8qeQ&s",
+      "body": "Noise-cancelling headphones with high-quality sound."
+    },
+    {
+      "id": "5",
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 35,
+      "image": "https://rahala-eg.com/cdn/shop/files/7_7cd8829c-760b-4d5b-9161-bdf8c1da13cc.png?v=1751801940",
+      "body": "Spacious and durable backpack for everyday use."
+    },
+    {
+      "id": "6",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": "125",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/pk/sm-l310nzg8eua/gallery/pk-galaxy-watch7-l310-sm-l310nzg8eua-thumb-544769007?$UX_EXT2_PNG$",
+      "body": "Smart watch with fitness tracking and notifications."
+    },
+    {
+      "id": "7",
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "price": "20",
+      "image": "https://kazary.net/cdn/shop/files/f77cae_a3505c797bee40a1bf84202a27a4db4c_mv2.webp?v=1755370061&width=500",
+      "body": "Slim and stylish leather wallet with multiple card slots."
+    },
+    {
+      "id": "8",
+      "name": "Desk Lamp",
+      "category": "Home & Office",
+      "price": 22,
+      "image": "https://i5.walmartimages.com/seo/Home-Decorative-Mainstays-LED-Architect-Desk-Lamp-Black-Metal-Powder-Coating-Finish-for-All-Ages_2416f3cf-e5d2-4e9d-9612-d2ad61a014e0.ce7d149337e1d115ba4a61a2c3a11904.jpeg",
+      "body": "LED desk lamp with adjustable brightness."
+    },
+    {
+      "id": "9",
+      "name": "Water Bottle",
+      "category": "Home & Kitchen",
+      "price": 12.5,
+      "image": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/20/166174/1.jpg?8305",
+      "body": "Reusable stainless steel water bottle."
+    }
+  ]
+}
